@@ -1,0 +1,63 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.card {
+    width: 380px;
+    height: 400px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+    margin: 10px auto
+}
+
+img {
+    border: none;
+    border-radius: 10px;
+
+}
+
+.card-img {
+    height: 250px;
+    width: 380px;
+    position: relative;
+}
+
+.abs {
+
+    background-color: rgb(14 115 242);
+    color: white;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+
+.abs2 {
+
+
+    background-color: white;
+    color: black;
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+    border-radius: 5px;
+    padding: 4px
+}
+
+.cap {
+    color: rgb(141, 140, 140);
+}
+
+.bot {
+    border: 5px gray;
+    padding: 5px;
+    color: rgb(141, 140, 140);
+    font-size: medium;
+}
+
+/* .bot-text {
+    padding: 5px;
+} */
